@@ -43,3 +43,11 @@ The API returns the predicted category, route, confidence, sentiment, and routin
 
 ## Important
 The accuracy reported in the project should be the accuracy printed by the evaluation run. Do not claim 96% unless the evaluated model actually achieves it on the stated test split.
+
+## Project Demo
+
+### Application Interface
+![Prompt Routing System](screenshots/prompt-routing-demo.png)
+
+### Routing Result
+![Prompt Routing Result](screenshots/prompt-routing-result.png)
