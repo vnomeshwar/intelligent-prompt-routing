@@ -1,0 +1,93 @@
+prompt,category
+Why was I charged a recent order?,billing
+How do I request a refund for my subscription?,billing
+My payment for the transaction failed,billing
+Where is my invoice for my purchase?,billing
+I was billed twice for last month's bill,billing
+Can I change my payment method for a recent order?,billing
+Why is my subscription fee my subscription?,billing
+I do not recognize this transaction for the transaction,billing
+Can you explain this charge on my account?,billing
+My card was declined while paying for last month's bill,billing
+Why was I charged the transaction?,billing
+Could you tell me how I request a refund for my purchase?,billing
+My payment for last month's bill failed,billing
+Where is my invoice for a recent order? Please help.,billing
+I need help: i was billed twice for my subscription,billing
+Can I change my payment method for the transaction?,billing
+Why is my subscription fee my purchase?,billing
+I do not recognize this transaction for last month's bill,billing
+Can you explain this charge on my account? Please help.,billing
+I need help: my card was declined while paying for my subscription,billing
+How do I reset my password?,account
+I cannot log into my account,account
+My account is locked,account
+How can I change my email address?,account
+I need to update my profile,account
+How do I change my username?,account
+How can I enable two factor authentication?,account
+I forgot my login password,account
+How do I secure my account?,account
+I cannot access my account,account
+How can I change my email address? Please help.,account
+I need help: i need to update my profile,account
+How do I secure my account? Please help.,account
+I need help: i cannot access my account,account
+Why does my Python program throw an exception?,technical
+How do I fix this SQL query?,technical
+My API returns a 500 error,technical
+How can I debug this code?,technical
+Why is my application slow?,technical
+How do I connect Python to MySQL?,technical
+How do I install a Python package?,technical
+What is causing this database error?,technical
+How do I optimize this program?,technical
+Why is my API request failing?,technical
+Could you tell me how I fix this SQL query?,technical
+How can I debug this code? Please help.,technical
+I need help: why is my application slow?,technical
+Could you tell me how I install a Python package?,technical
+How do I optimize this program? Please help.,technical
+I need help: why is my api request failing?,technical
+What is machine learning?,general
+Explain artificial intelligence in simple terms,general
+What is cloud computing?,general
+What is data science?,general
+How does a recommendation system work?,general
+What is natural language processing?,general
+Explain neural networks,general
+What is an algorithm?,general
+Tell me about renewable energy,general
+What is the difference between AI and ML?,general
+What is data science? Please help.,general
+I need help: how does a recommendation system work?,general
+Tell me about renewable energy Please help.,general
+I need help: what is the difference between ai and ml?,general
+I am unhappy with the service,complaint
+I want to complain about my order,complaint
+This is a very disappointing experience,complaint
+Nobody has resolved my issue,complaint
+I am frustrated with the support team,complaint
+I want to report poor service,complaint
+The service has been terrible,complaint
+I am dissatisfied with how this was handled,complaint
+My problem has still not been resolved,complaint
+I want to raise a complaint,complaint
+Nobody has resolved my issue Please help.,complaint
+I need help: i am frustrated with the support team,complaint
+My problem has still not been resolved Please help.,complaint
+I need help: i want to raise a complaint,complaint
+Where is my package?,customer_support
+My order has not arrived,customer_support
+How do I contact customer support?,customer_support
+Can I change my delivery address?,customer_support
+When will my order arrive?,customer_support
+My product arrived damaged,customer_support
+I received the wrong item,customer_support
+How do I cancel my order?,customer_support
+Can you help me track my delivery?,customer_support
+What is the status of my shipment?,customer_support
+Can I change my delivery address? Please help.,customer_support
+I need help: when will my order arrive?,customer_support
+Can you help me track my delivery? Please help.,customer_support
+I need help: what is the status of my shipment?,customer_support
